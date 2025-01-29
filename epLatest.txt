@@ -1,2 +1,2 @@
-ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1.zip
-ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip
+ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.zip
+ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.zip
